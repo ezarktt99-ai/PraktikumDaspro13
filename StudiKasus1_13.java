@@ -10,14 +10,9 @@ public class StudiKasus1_13 {
         int totalHarga, diskon, totalBayar;
         int kembalian, kurang;
 
-        System.out.print("Masukkan jumlah cup :");
-        jumlahCup = sc.nextInt();
+        
 
-        System.out.print("Masukkan uang bayar :");
-        jumlahBayar = sc.nextInt();
-
-        totalHarga = jumlahCup * hargaPerCup;
-        diskon = 0;
+      
 
 
     }
